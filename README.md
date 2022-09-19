@@ -22,7 +22,9 @@
 - 📫 How to reach me **sprat0088@gmail.com**
 <h4>I work with:</h4>
 <p align="left">
- <img style="margin: auto;" src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo.png/1200px-Vmware_workstation_16_icon.svg.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://www3.gobiernodecanarias.org/medusa/ecoescuela/pedagotic/files/formidable/5/office365.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://www.iterati.com.mx//img/product/instalacion-active-directory-instalacion-o-deployment-active-directory-1.jpg" alt=python width="60" height="60"/>
+<img style="margin: auto;" src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo.png" alt=python width="60" height="60"/>
+<img style="margin: auto;" src="https://www3.gobiernodecanarias.org/medusa/ecoescuela/pedagotic/files/formidable/5/office365.png" alt=c width="60" height="60"/>
+<img style="margin: auto;" src="https://www.iterati.com.mx//img/product/instalacion-active-directory-instalacion-o-deployment-active-directory-1.jpg" alt=python width="60" height="60"/>
+<img style="margin: auto;" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt=python width="60" height="60"/>
+<img style="margin: auto;" src="https://www.iterati.com.mx//img/product/instalacion-active-directory-instalacion-o-deployment-active-directory-1.jpg" alt=python width="60" height="60"/>
 </p>
