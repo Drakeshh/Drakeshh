@@ -22,9 +22,11 @@
 - 📫 How to reach me **sprat0088@gmail.com**
 <h4>I work with:</h4>
 <p align="left">
-<img style="margin: auto;" src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo.png" alt=python width="60" height="60"/>
-<img style="margin: auto;" src="https://www3.gobiernodecanarias.org/medusa/ecoescuela/pedagotic/files/formidable/5/office365.png" alt=c width="60" height="60"/>
-<img style="margin: auto;" src="https://www.iterati.com.mx//img/product/instalacion-active-directory-instalacion-o-deployment-active-directory-1.jpg" alt=python width="60" height="60"/>
-<img style="margin: auto;" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt=python width="60" height="60"/>
-<img style="margin: auto;" src="https://www.iterati.com.mx//img/product/instalacion-active-directory-instalacion-o-deployment-active-directory-1.jpg" alt=python width="60" height="60"/>
+<img style="margin: auto;" src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo.png" alt=vsphere width="60" height="60"/>
+<img style="margin: auto;" src="https://www3.gobiernodecanarias.org/medusa/ecoescuela/pedagotic/files/formidable/5/office365.png" alt=office365 width="60" height="60"/>
+<img style="margin: auto;" src="https://www.iterati.com.mx//img/product/instalacion-active-directory-instalacion-o-deployment-active-directory-1.jpg" alt=activedirectory width="60" height="60"/>
+<img style="margin: auto;" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt=activedirectory width="60" height="60"/>
+<img style="margin: auto;" src="https://concepto.de/wp-content/uploads/2018/09/sjfogvgbk-e1537188125611-800x400.jpg" alt=wordpress width="60" height="60"/>
+<img style="margin: auto;" src="https://www.profesionalreview.com/wp-content/uploads/2016/06/ubuntu-logo-1280x720.jpg" alt=windows width="60" height="60"/>
+<img style="margin: auto;" src="https://www.ochobitshacenunbyte.com/wp-content/uploads/2022/01/parro-security-os-portada-2.jpg" alt=parrotos width="60" height="60"/>
 </p>
