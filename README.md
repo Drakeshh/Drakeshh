@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sergi Prat :smiley_cat:</h1>
+ <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/sergi-prat-merin-b96731213//">
+    <img src="https://img.shields.io/badge/linkedin-Sergi Prat-blue">
+  </a>
+  
+ 
+</p>
 
-<!--
-**Drakeshh/Drakeshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate system administrator specialized in vSphere virtualization from Spain </h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+- 🔭 I’m currently working on **Embutidos Collell & building Wordpress webs**
+- 🌱 I’m currently learning ... **Cibersecurity**
+- 💬 Ask me about ... **VMware virtualization**
+- 😄 Employement ... **Open for all type of opportunities**
+- ⚡ Fun fact ... **Im not programmer**❤
+- 📫 How to reach me **sprat0088@gmail.com**
+<h4>I work with:</h4>
+<p align="left">
+ <img style="margin: auto;" src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo.png/1200px-Vmware_workstation_16_icon.svg.png" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="https://www3.gobiernodecanarias.org/medusa/ecoescuela/pedagotic/files/formidable/5/office365.png" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="https://www.iterati.com.mx//img/product/instalacion-active-directory-instalacion-o-deployment-active-directory-1.jpg" alt=python width="60" height="60"/>
+</p>
