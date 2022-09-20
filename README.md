@@ -8,7 +8,6 @@
 </p>
 
 <h3 align="center">A passionate system administrator specialized in vSphere virtualization from Spain </h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -29,4 +28,6 @@
 <img style="margin: auto;" src="https://concepto.de/wp-content/uploads/2018/09/sjfogvgbk-e1537188125611-800x400.jpg" alt=wordpress width="60" height="60"/>
 <img style="margin: auto;" src="https://www.profesionalreview.com/wp-content/uploads/2016/06/ubuntu-logo-1280x720.jpg" alt=windows width="60" height="60"/>
 <img style="margin: auto;" src="https://www.ochobitshacenunbyte.com/wp-content/uploads/2022/01/parro-security-os-portada-2.jpg" alt=parrotos width="60" height="60"/>
+<img style="margin: auto;" src="https://www.linuxadictos.com/wp-content/uploads/centos-stream.jpg" alt=parrotos width="60" height="60"/>
+<img style="margin: auto;" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt=parrotos width="60" height="60"/>
 </p>
