@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Embutidos Collell & building Wordpress webs**
 - 🌱 I’m currently learning ... **Cibersecurity**
-- 💬 Ask me about ... **VMware virtualization**
+- 💬 Ask me about ... **vSphere virtualization**
 - 😄 Employement ... **Open for all type of opportunities**
 - ⚡ Fun fact ... **Im not programmer**❤
 - 📫 How to reach me **sprat0088@gmail.com**
