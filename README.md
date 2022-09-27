@@ -25,9 +25,9 @@
 <img style="margin: auto;" src="https://www3.gobiernodecanarias.org/medusa/ecoescuela/pedagotic/files/formidable/5/office365.png" alt=office365 width="60" height="60"/>
 <img style="margin: auto;" src="https://www.iterati.com.mx//img/product/instalacion-active-directory-instalacion-o-deployment-active-directory-1.jpg" alt=activedirectory width="60" height="60"/>
 <img style="margin: auto;" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt=activedirectory width="60" height="60"/>
+<img style="margin: auto;" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt=parrotos width="60" height="60"/>
 <img style="margin: auto;" src="https://concepto.de/wp-content/uploads/2018/09/sjfogvgbk-e1537188125611-800x400.jpg" alt=wordpress width="60" height="60"/>
 <img style="margin: auto;" src="https://www.profesionalreview.com/wp-content/uploads/2016/06/ubuntu-logo-1280x720.jpg" alt=windows width="60" height="60"/>
 <img style="margin: auto;" src="https://www.ochobitshacenunbyte.com/wp-content/uploads/2022/01/parro-security-os-portada-2.jpg" alt=parrotos width="60" height="60"/>
 <img style="margin: auto;" src="https://www.linuxadictos.com/wp-content/uploads/centos-stream.jpg" alt=parrotos width="60" height="60"/>
-<img style="margin: auto;" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt=parrotos width="60" height="60"/>
 </p>
