@@ -7,7 +7,7 @@
  
 </p>
 
-<h3 align="center">A passionate system administrator specialized in vSphere virtualization from Spain </h3>
+<h3 align="center">A passionate system administrator from Spain specialized in vSphere virtualization</h3>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
