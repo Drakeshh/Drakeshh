@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on **Embutidos Collell & building Wordpress webs**
-- 🌱 I’m currently learning ... **Cibersecurity**
+- 🌱 I’m currently learning ... **Cybersecurity**
 - 💬 Ask me about ... **vSphere virtualization**
 - 😄 Employement ... **Open for all type of opportunities**
 - ⚡ Fun fact ... **Im not programmer**❤
