@@ -22,7 +22,7 @@
 <img style="margin: auto;" src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo.png" alt=vsphere width="60" height="60"/>
 <img style="margin: auto;" src="https://www3.gobiernodecanarias.org/medusa/ecoescuela/pedagotic/files/formidable/5/office365.png" alt=office365 width="60" height="60"/>
 <img style="margin: auto;" src="https://www.iterati.com.mx//img/product/instalacion-active-directory-instalacion-o-deployment-active-directory-1.jpg" alt=activedirectory width="60" height="60"/>
-<img style="margin: auto;" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt=activedirectory width="60" height="60"/>
+<img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt=activedirectory width="60" height="60"/>
 <img style="margin: auto;" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt=parrotos width="60" height="60"/>
 <img style="margin: auto;" src="https://concepto.de/wp-content/uploads/2018/09/sjfogvgbk-e1537188125611-800x400.jpg" alt=wordpress width="60" height="60"/>
 <img style="margin: auto;" src="https://www.profesionalreview.com/wp-content/uploads/2016/06/ubuntu-logo-1280x720.jpg" alt=windows width="60" height="60"/>
@@ -30,6 +30,7 @@
 <img style="margin: auto;" src="https://guide-images.cdn.ifixit.com/igi/yIjDodkoTxh26KQx.full" alt=kali width="60" height="60"/>
 <img style="margin: auto;" src="https://www.linuxadictos.com/wp-content/uploads/centos-stream.jpg" alt=centos width="60" height="60"/>
 <img style="margin: auto;" src="https://images.ctfassets.net/p03bi75xct27/5qAgkGIupv615synfBy48e/1103cf0b64135fda2b4932c4e3bd70c7/active-directory.png?q=80&fm=webp&w=2048" alt=entraid width="60" height="60"/>
+<img style="margin: auto;" src="https://assets.ext.hpe.com/is/image/hpedam/s00001584?$zoom$" alt=entraid width="60" height="60"/>
 </p>
 <p align="center">
   <a href="https://github.com/Drakeshh?tab=followers">
