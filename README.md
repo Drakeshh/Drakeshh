@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sergi Prat :smiley_cat:</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sergi Prat :smiley_cat:</h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/sergi-prat-merin-b96731213//">
     <img src="https://img.shields.io/badge/linkedin-Sergi Prat-blue">
@@ -7,17 +7,16 @@
  
 </p>
 
-<h3 align="center">A passionate system administrator from Spain specialized in vSphere virtualization</h3>
+<h3 align="center">A passionate system administrator from Spain specialized in Cloud Computing</h3>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **Embutidos Collell & building Wordpress webs**
-- 🌱 I’m currently learning ... **Cybersecurity**
-- 💬 Ask me about ... **vSphere virtualization**
+- 🔭 I’m currently working on **Costa Brava Mediterranean Foods as a Sysadmin**
+- 🌱 I’m currently learning ... **Entra ID**
+- 💬 Ask me about ... **Virtualization**
 - 😄 Employement ... **Open for all type of opportunities**
-- ⚡ Fun fact ... **Im not programmer**❤
 - 📫 How to reach me **sprat0088@gmail.com**
 <h4>I work with:</h4>
 <p align="left">
