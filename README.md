@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm <a href="www.linkedin.com/in/sergi-prat-merin-b96731213/">Sergi Prat</a>:smiley_cat:</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sergi Prat :smiley_cat:</h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/sergi-prat-merin-b96731213//">
     <img src="https://img.shields.io/badge/linkedin-Sergi Prat-blue">
