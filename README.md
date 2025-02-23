@@ -7,14 +7,14 @@
  
 </p>
 
-<h3 align="center">A passionate SysAdmin from Spain specialized in Cloud Computing & Virtualization</h3>
+<h3 align="center">A passionate SysAdmin from Netherlands specialized in Cloud Computing, Virtualization and Linux</h3>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 - 🔭 I’m currently working on **Costa Brava Mediterranean Foods as a Sysadmin**
-- 🌱 I’m currently learning ... **Entra ID administration**
+- 🌱 I’m currently learning ... **Linux Administration**
 - 💬 Ask me about ... **Virtualization**
 - 📫 How to reach me **sprat0088@gmail.com**
 <h4>I work with:</h4>
