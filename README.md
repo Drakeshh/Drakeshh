@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on **Olenex as System Administrator**
-- 🌱 I’m currently learning ... **Linux Administration**
+- 🌱 I’m currently learning ... **Cloud Computing**
 - 💬 Ask me about ... **Virtualization**
 - 📫 How to reach me **sprat0088@gmail.com**
 <h4>I work with:</h4>
