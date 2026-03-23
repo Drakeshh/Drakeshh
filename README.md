@@ -25,7 +25,6 @@
 <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt=activedirectory width="60" height="60"/>
 <img style="margin: auto;" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt=parrotos width="60" height="60"/>
 <img style="margin: auto;" src="https://concepto.de/wp-content/uploads/2018/09/sjfogvgbk-e1537188125611-800x400.jpg" alt=wordpress width="60" height="60"/>
-<img style="margin: auto;" src="https://www.profesionalreview.com/wp-content/uploads/2016/06/ubuntu-logo-1280x720.jpg" alt=windows width="60" height="60"/>
 <img style="margin: auto;" src="https://www.ochobitshacenunbyte.com/wp-content/uploads/2022/01/parro-security-os-portada-2.jpg" alt=parrotos width="60" height="60"/>
 <img style="margin: auto;" src="https://guide-images.cdn.ifixit.com/igi/yIjDodkoTxh26KQx.full" alt=kali width="60" height="60"/>
 <img style="margin: auto;" src="https://www.linuxadictos.com/wp-content/uploads/centos-stream.jpg" alt=centos width="60" height="60"/>
