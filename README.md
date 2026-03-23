@@ -7,7 +7,7 @@
  
 </p>
 
-<h3 align="center">A passionate SysAdmin from Netherlands with passion for Cloud Computing, Virtualization and Linux</h3>
+<h3 align="center">A System Administrator from the Netherlands with passion for Cloud Computing, Virtualization and Linux</h3>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
