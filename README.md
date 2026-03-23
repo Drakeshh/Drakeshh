@@ -13,9 +13,9 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **Olenex as System Administrator**
+- 🔭 I’m currently working at **Olenex as System Administrator**
 - 🌱 I’m currently learning ... **Cloud Computing**
-- 💬 Ask me about ... **Virtualization**
+- 💬 Ask me about ... **Linux**
 - 📫 How to reach me **sprat0088@gmail.com**
 <h4>I work with:</h4>
 <p align="left">
