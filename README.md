@@ -16,7 +16,7 @@
 - 🔭 I’m currently working at **Olenex as System Administrator**
 - 🌱 I’m currently learning ... **Cloud Computing**
 - 💬 Ask me about ... **Linux**
-- 📫 Reach me on Linkedin!
+- 📫 Reach me on **Linkedin**!
 <h4>I work with:</h4>
 <p align="left">
 <img style="margin: auto;" src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo.png" alt=vsphere width="60" height="60"/>
